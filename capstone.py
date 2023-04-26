@@ -7,7 +7,7 @@ st.write("""
 
 This app predicts undergraduate students pass/fail
 
-Data obtained from the School of Business Admissions Office)
+Data obtained from the School of Business Admissions Office
 """)
 
 st.sidebar.header('User Input Features')
